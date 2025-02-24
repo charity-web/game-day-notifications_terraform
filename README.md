@@ -46,7 +46,7 @@ game-day-notifications_terraform/
 **Setup Instructions**
 
 ```
-git clone https://github.com/ifeanyiro9/game-day-notifications.git
+git clone https://github.com/charity-web/game-day-notifications_terraform.git
 cd game-day-notifications
 ```
 **Store API Key as secret in Parameter store**
