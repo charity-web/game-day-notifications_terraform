@@ -116,7 +116,7 @@ Confirm the subscription by clicking the confirmation link in the email.
 2. Securing AWS services with least privilege IAM policies.
 3. Automating workflows using EventBridge.
 4. Integrating external APIs into cloud-based workflows.
-5. Automated the entier solution with Infrastructure as Code tool Terraform
+5. Automated the entire solution with Infrastructure as Code tool Terraform
 
 
 
